@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250701303090",
+    "project_id": "gharsa-12e9d",
+    "storage_bucket": "gharsa-12e9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250701303090:android:c6f5f1d9c6ce6c9c711b2b",
+        "android_client_info": {
+          "package_name": "com.gharsa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKIzPtHZ8G9etmLfh13nDojx_2Ym-5RXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
