@@ -1,6 +1,5 @@
 # Miscellaneous
-*.class
-*.log
+*.class.gitignore
 *.pyc
 *.swp
 .DS_Store
@@ -43,3 +42,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
