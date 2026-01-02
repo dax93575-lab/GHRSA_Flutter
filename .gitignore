@@ -1,5 +1,6 @@
 # Miscellaneous
-*.class.gitignore
+*.class
+*.log
 *.pyc
 *.swp
 .DS_Store
@@ -26,6 +27,7 @@ migrate_working_dir/
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
+.flutter-plugins
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
@@ -43,3 +45,22 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+# Android
+**/android/local.properties
+**/android/.gradle
+**/android/key.properties
+*.jks
+*.keystore
+
+# iOS
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_assets/
+**/ios/Pods/
+
+# Desktop (Windows/Linux/macOS)
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+
+# Environment Variables
+.env
